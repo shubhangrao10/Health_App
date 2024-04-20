@@ -7,13 +7,6 @@
 
 <p align="center"> Healthify - Heart Stroke Prediction using Machine Learning and Fitness trackers </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/Dantusaikamal/Healthify?include_prereleases">
-  <img src="https://img.shields.io/github/last-commit/Dantusaikamal/Healthify">
-  <img src="https://img.shields.io/github/issues-raw/Dantusaikamal/Healthify">
-  <img src="https://img.shields.io/github/issues-pr/Dantusaikamal/Healthify">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg">
-</p>
 
 Every 40 seconds, someone in the United States has a stroke. Every 3.5 minutes, someone dies of stroke. Every year, more than 795,000 people in the United States have a stroke. About 610,000 of these are first or new strokes. The chances of survival are greater when emergency treatment begins quickly. Moreover, up to 50% of all strokes are preventable. Hence, it is important to identify strokes in the early stages. 
 
