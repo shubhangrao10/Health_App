@@ -86,12 +86,6 @@ This module enables users to contact medical professionals in case they need urg
 
 This module provides users with helpful tips on how to maintain a healthy lifestyle and reduce their risk of having a heart stroke. The tips are displayed in a scrollable view and cover various topics, such as exercise, diet, and stress management.
 
-# Demo-Preview
-
-
-
-https://github.com/Dantusaikamal/Healthify/assets/65682028/23bae4ce-81ea-4a5f-8dbe-65838268cfea
-
 
 
 # Table of contents
@@ -124,63 +118,9 @@ We have trained a machine learning model that is deployed in Firebase to make pr
 ![Heart Stroke Prediction using Fitness trackers(1)](https://user-images.githubusercontent.com/65682028/235298648-91902b4e-a178-443f-8c9f-69817821b40c.png)
 
 
-# Usage
-[(Back to top)](#table-of-contents)
-
-
-If we predict heart strokes in advanced, countless lives will be saved. This will contribute in saving million of people dying due to heartstroke every year.
-
-We are looking to use Technology to tackle challenges in Healthcare. And we believe, our heart stroke prediction system is going to play a crucial role in fighting against heart diseases.  
 
 
 
-## Getting started
-
-In order to get started with the application, fork the repository and create a local workspace.
-
-Install Flutter SDK, Android Studio/ VS Code
-
-Set the environment variables if necessary
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/Dantusaikamal/Healthify.git
-```
-2. Install Flutter packages
-```sh
-flutter pub get
-```
-3. Run the application
-```sh
-flutter run
-```
-
-# Contribute
-[(Back to top)](#table-of-contents)
-
-Please check Contribute.md to know how you can contribute to this project.
-
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-If you want to sponsor the project, please donate your money to any relief funds for COVID-19 like [WHO Relief fund](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate) or the organizations in your own country like [PM cares fund](https://www.pmcares.gov.in/en/)
-
-
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
-
-If you find an issue in the project, open a new issue or a raise a pull request in this repository. 
-
-You can also mail to dantusaikamal@gmail.com incase of any issues.
-
-# License
-[(Back to top)](#table-of-contents)
-
-Check out the LICENSE file in the repo.
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
 
 
