@@ -87,25 +87,6 @@ This module enables users to contact medical professionals in case they need urg
 This module provides users with helpful tips on how to maintain a healthy lifestyle and reduce their risk of having a heart stroke. The tips are displayed in a scrollable view and cover various topics, such as exercise, diet, and stress management.
 
 
-
-# Table of contents
-
-Here is the TOC this project.
-
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-
-# Implementation
-[(Back to top)](#table-of-contents)
-
-We have trained a machine learning model that is deployed in Firebase to make predictions on new data in real-time. The Flutter mobile application serves as the user interface for the Heart Stroke detection system, alerting users of possible strokes based on the results of the machine learning model. 
-
 ### Technologies used:
 - TensorFlow
 - Flutter 
@@ -113,9 +94,6 @@ We have trained a machine learning model that is deployed in Firebase to make pr
 - Twilio
 - Google Fit API
 - Mi Band 4 (Hardware)
-
-### Architecture:
-![Heart Stroke Prediction using Fitness trackers(1)](https://user-images.githubusercontent.com/65682028/235298648-91902b4e-a178-443f-8c9f-69817821b40c.png)
 
 
 
